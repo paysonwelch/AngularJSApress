@@ -1,0 +1,1 @@
+﻿Another chapter covering rudimentary basics, this time for Javascript.
